@@ -4,23 +4,30 @@
 // Retrieve the DATABASE_URL environment variable set by Heroku
 $dbUrl = getenv("DATABASE_URL");
 if (!$dbUrl) {
-    die("DATABASE_URL is not set. Ensure your Heroku Postgres add-on is configured.");
+    die("DATABASE_URL not set. Please ensure your Heroku Postgres add-on is configured.");
 }
-
-// Parse the URL to extract connection details
 $dbopts = parse_url($dbUrl);
-$host   = $dbopts["host"];
-$port   = $dbopts["port"];
-$user   = $dbopts["user"];
-$pass   = $dbopts["pass"];
+$host = $dbopts["host"];
+$port = $dbopts["port"];
+$user = $dbopts["user"];
+$pass = $dbopts["pass"];
 $dbname = ltrim($dbopts["path"], '/');
-
-// Create a DSN string and connect using PDO
 $dsn = "pgsql:host=$host;port=$port;dbname=$dbname";
+
 try {
     $pdo = new PDO($dsn, $user, $pass, [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION]);
 } catch (PDOException $e) {
-    die("Could not connect to the database: " . $e->getMessage());
+    die("Database connection failed: " . $e->getMessage());
+}
+
+try {
+    $stmt = $pdo->prepare("INSERT INTO submissions (student_name, class_period, author) VALUES (:student_name, :class_period, :author)");
+    $stmt->bindParam(':student_name', $studentName);
+    $stmt->bindParam(':class_period', $classPeriod);
+    $stmt->bindParam(':author', $selectedAuthor['name']);
+    $stmt->execute();
+} catch (PDOException $e) {
+    die("Database insert failed: " . $e->getMessage());
 }
 
 // Query to retrieve all submissions, ordered by the most recent
