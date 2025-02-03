@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Author Signup for Research Projects
 
 **Author Signup for Research Projects** is a PHP-based website designed to allow students to sign up for research projects by selecting an author from a curated list. For each author, the site displays detailed information including a biography, the types of literature they are known for (genre), common themes in their work, and a famous quote from the author. The instructions and warnings are provided in English, Spanish, and Brazilian Portuguese to ensure accessibility for a diverse group of students.
