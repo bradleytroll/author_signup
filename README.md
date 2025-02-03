@@ -31,7 +31,7 @@
 
 ## Project Structure
 
-```
+```bash
 my-project/
 ├── index.php             # Main PHP file handling the form and dynamic display
 ├── authors.json          # JSON data file containing the author information (150 entries)
