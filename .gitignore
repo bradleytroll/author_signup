@@ -1,0 +1,21 @@
+# Ignore log files and temporary files
+submissions.log
+*.log
+
+# Ignore PHP session files (if any)
+sess_*
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# If using an IDE, ignore its project files:
+.vscode/
+.idea/
+
+# If you have dependency directories (like vendor/ from Composer), ignore them if you’re not committing them
+/vendor/
+
+# Optional: ignore cache or temporary files
+cache/
+tmp/

@@ -1,0 +1,1282 @@
+[
+    {
+        "id": "homer",
+        "name": "Homer",
+        "bio": "Legendary ancient Greek poet traditionally credited with composing the epic poems the \"Iliad\" and the \"Odyssey.\"",
+        "genre": "Epic Poetry",
+        "themes": "Heroism, Fate, War, Honor",
+        "sample": "Sing, O goddess, the anger of Achilles, that brought countless ills upon the Achaeans."
+    },
+    {
+        "id": "hesiod",
+        "name": "Hesiod",
+        "bio": "Ancient Greek poet known for \"Theogony\" and \"Works and Days.\"",
+        "genre": "Epic Poetry, Didactic Poetry",
+        "themes": "Mythology, Agriculture, Moral Instruction",
+        "sample": "The earth, through toil, yields both its fruits and its wisdom."
+    },
+    {
+        "id": "sappho",
+        "name": "Sappho",
+        "bio": "Renowned lyric poet from the island of Lesbos celebrated for her passionate, personal poetry about love and beauty.",
+        "genre": "Lyric Poetry",
+        "themes": "Love, Beauty, Emotion",
+        "sample": "Someone, I say, should remember us..."
+    },
+    {
+        "id": "aeschylus",
+        "name": "Aeschylus",
+        "bio": "One of the earliest Greek tragedians whose plays explore divine justice, fate, and revenge.",
+        "genre": "Tragedy",
+        "themes": "Divine Justice, Fate, Revenge",
+        "sample": "Justice, though delayed, is never denied."
+    },
+    {
+        "id": "sophocles",
+        "name": "Sophocles",
+        "bio": "Influential Greek playwright known for tragedies such as \"Oedipus Rex\" and \"Antigone.\"",
+        "genre": "Tragedy",
+        "themes": "Fate, Suffering, Moral Conflict",
+        "sample": "Wonders are many; none is more wonderful than man."
+    },
+    {
+        "id": "euripides",
+        "name": "Euripides",
+        "bio": "Greek tragedian noted for plays like \"Medea\" and \"The Bacchae,\" which examine human psychology and social values.",
+        "genre": "Tragedy",
+        "themes": "Psychological Conflict, Social Critique, Divine Intervention",
+        "sample": "The heart of a man is a mysterious and troubled place."
+    },
+    {
+        "id": "aristophanes",
+        "name": "Aristophanes",
+        "bio": "Master of ancient Greek comedy whose plays often include satire and witty social commentary.",
+        "genre": "Comedy, Satire",
+        "themes": "Political Satire, Social Critique, Absurdity",
+        "sample": "Laughter is the remedy for the ills of a corrupt society."
+    },
+    {
+        "id": "virgil",
+        "name": "Virgil",
+        "bio": "Roman poet best known for his epic \"The Aeneid,\" which blends myth and history to celebrate Roman ideals.",
+        "genre": "Epic Poetry",
+        "themes": "Duty, Destiny, Roman Ideals, Mythology",
+        "sample": "Forsan et haec olim meminisse juvabit."
+    },
+    {
+        "id": "ovid",
+        "name": "Ovid",
+        "bio": "Prolific Roman poet whose \"Metamorphoses\" interweaves transformation myths that have influenced Western art and literature.",
+        "genre": "Epic Poetry, Elegy",
+        "themes": "Transformation, Love, Change, Myth",
+        "sample": "Change is the only constant in life."
+    },
+    {
+        "id": "horace",
+        "name": "Horace",
+        "bio": "Roman lyric poet and satirist known for his odes and satires that balance enjoyment of life with philosophical reflection.",
+        "genre": "Lyric Poetry, Satire",
+        "themes": "Love, Philosophy, Carpe Diem",
+        "sample": "Carpe diem, quam minimum credula postero."
+    },
+    {
+        "id": "catullus",
+        "name": "Catullus",
+        "bio": "Late Roman poet renowned for his emotionally charged love poems and biting satires.",
+        "genre": "Lyric Poetry",
+        "themes": "Love, Passion, Satire",
+        "sample": "I hate and I love. Why do I do this, perhaps you ask?"
+    },
+    {
+        "id": "lucretius",
+        "name": "Lucretius",
+        "bio": "Roman poet and philosopher whose work \"De Rerum Natura\" articulates Epicurean philosophy.",
+        "genre": "Philosophical Poetry",
+        "themes": "Epicurean Philosophy, Nature, Science",
+        "sample": "Nature, in its quiet majesty, speaks the truth."
+    },
+    {
+        "id": "propertius",
+        "name": "Propertius",
+        "bio": "Latin elegiac poet celebrated for his love poetry that delves into personal desire and emotion.",
+        "genre": "Elegiac Poetry",
+        "themes": "Love, Desire, Personal Emotion",
+        "sample": "My heart sings a song of endless yearning."
+    },
+    {
+        "id": "juvenal",
+        "name": "Juvenal",
+        "bio": "Roman satirist famous for his scathing satires that critiqued the moral decay of Roman society.",
+        "genre": "Satire",
+        "themes": "Social Critique, Morality, Corruption",
+        "sample": "Who can trust a world so corrupt as this?"
+    },
+    {
+        "id": "martial",
+        "name": "Martial",
+        "bio": "Roman poet best known for his epigrams that combine wit with humorous social commentary.",
+        "genre": "Epigrammatic Poetry",
+        "themes": "Humor, Wit, Social Observation",
+        "sample": "Short verses, sharp wit, and a keen eye for folly."
+    },
+    {
+        "id": "dante-alighieri",
+        "name": "Dante Alighieri",
+        "bio": "Italian poet famed for \"The Divine Comedy,\" an allegorical journey through Hell, Purgatory, and Paradise.",
+        "genre": "Epic Poetry, Allegory",
+        "themes": "Redemption, Divine Justice, Spiritual Journey",
+        "sample": "Abandon all hope, ye who enter here."
+    },
+    {
+        "id": "geoffrey-chaucer",
+        "name": "Geoffrey Chaucer",
+        "bio": "English poet best known for \"The Canterbury Tales,\" a vivid portrait of 14th-century English society.",
+        "genre": "Narrative Poetry",
+        "themes": "Social Satire, Human Nature, Storytelling",
+        "sample": "Whan that Aprille with his shoures soote..."
+    },
+    {
+        "id": "giovanni-boccaccio",
+        "name": "Giovanni Boccaccio",
+        "bio": "Italian writer renowned for \"The Decameron,\" a collection of novellas that influenced European narrative structure.",
+        "genre": "Narrative Prose, Novella",
+        "themes": "Human Experience, Love, Humor",
+        "sample": "Each tale reveals the joys and sorrows of mortal life."
+    },
+    {
+        "id": "william-langland",
+        "name": "William Langland",
+        "bio": "English poet known for \"Piers Plowman,\" an allegorical work critiquing medieval society and religion.",
+        "genre": "Allegorical Poetry",
+        "themes": "Social Critique, Spiritual Journey, Morality",
+        "sample": "In the fields of life, we reap what we sow."
+    },
+    {
+        "id": "marie-de-france",
+        "name": "Marie de France",
+        "bio": "Medieval poet celebrated for her lais\u2014short narrative poems blending romance and folklore.",
+        "genre": "Lais, Narrative Poetry",
+        "themes": "Romance, Chivalry, Mystery",
+        "sample": "Love and valor intertwine in each whispered tale."
+    },
+    {
+        "id": "rumi",
+        "name": "Rumi",
+        "bio": "Persian mystic and poet whose spiritual verse in works like the \"Masnavi\" explores divine love and transformation.",
+        "genre": "Mystical Poetry",
+        "themes": "Divine Love, Spiritual Transformation, Unity",
+        "sample": "The wound is the place where the Light enters you."
+    },
+    {
+        "id": "omar-khayyam",
+        "name": "Omar Khayyam",
+        "bio": "Persian poet, mathematician, and astronomer best known for his Rubaiyat, a collection of reflective quatrains.",
+        "genre": "Quatrains, Rubaiyat",
+        "themes": "Ephemerality, Fate, Existential Reflection",
+        "sample": "Be happy for this moment, for it is your life."
+    },
+    {
+        "id": "ferdowsi",
+        "name": "Ferdowsi",
+        "bio": "Persian poet celebrated for the epic \"Shahnameh,\" which recounts the mythic and historical past of Persia.",
+        "genre": "Epic Poetry",
+        "themes": "National Identity, Myth, History",
+        "sample": "From ancient legends, the spirit of Persia endures."
+    },
+    {
+        "id": "snorri-sturluson",
+        "name": "Snorri Sturluson",
+        "bio": "Icelandic historian and poet best known for composing the Prose Edda, a vital source for Norse mythology.",
+        "genre": "Prose, Historical Poetry",
+        "themes": "Mythology, Norse Legends, History",
+        "sample": "In the sagas of old, the gods still whisper their secrets."
+    },
+    {
+        "id": "ibn-arabi",
+        "name": "Ibn Arabi",
+        "bio": "Influential Sufi mystic and philosopher whose poetic writings explore divine love and spiritual unity.",
+        "genre": "Mystical Poetry, Philosophy",
+        "themes": "Spiritual Unity, Divine Love, Mysticism",
+        "sample": "Every soul is a universe in itself."
+    },
+    {
+        "id": "pearl-poet",
+        "name": "The Pearl Poet",
+        "bio": "An anonymous medieval English author famed for \"Sir Gawain and the Green Knight,\" a chivalric romance rich in allegory.",
+        "genre": "Middle English Romance",
+        "themes": "Chivalry, Honor, Allegory",
+        "sample": "A knight\u2019s honor is his most treasured jewel."
+    },
+    {
+        "id": "walther-von-der-vogelweide",
+        "name": "Walther von der Vogelweide",
+        "bio": "Medieval German lyric poet celebrated for his songs that comment on love, politics, and society.",
+        "genre": "Lyric Poetry",
+        "themes": "Love, Politics, Social Commentary",
+        "sample": "Let every note sing of passion and truth."
+    },
+    {
+        "id": "christine-de-pizan",
+        "name": "Christine de Pizan",
+        "bio": "Early feminist writer known for her prose and poetry advocating for women\u2019s education and social justice.",
+        "genre": "Prose, Poetry",
+        "themes": "Feminism, Social Justice, Education",
+        "sample": "Knowledge illuminates the dark corners of ignorance."
+    },
+    {
+        "id": "ibn-hazm",
+        "name": "Ibn Hazm",
+        "bio": "Andalusian polymath and writer whose works include philosophical and love poetry discussing ethics and aesthetics.",
+        "genre": "Philosophical Poetry, Love Poetry",
+        "themes": "Love, Ethics, Aesthetics",
+        "sample": "In every verse, the heart of truth beats softly."
+    },
+    {
+        "id": "nizami-ganjavi",
+        "name": "Nizami Ganjavi",
+        "bio": "Persian poet renowned for his narrative poems\u2014especially the \"Khamsa\"\u2014which blend romance with adventure.",
+        "genre": "Epic Poetry, Romance",
+        "themes": "Romance, Adventure, Moral Lessons",
+        "sample": "Every story holds a secret lesson for the heart."
+    },
+    {
+        "id": "william-shakespeare",
+        "name": "William Shakespeare",
+        "bio": "English playwright and poet whose work spans tragedies, comedies, and sonnets, profoundly influencing world literature.",
+        "genre": "Drama, Poetry",
+        "themes": "Human Nature, Tragedy, Comedy, Love, Ambition",
+        "sample": "To be, or not to be: that is the question."
+    },
+    {
+        "id": "christopher-marlowe",
+        "name": "Christopher Marlowe",
+        "bio": "English playwright and poet noted for his dramatic works such as \"Doctor Faustus,\" which explore ambition and fate.",
+        "genre": "Drama, Tragedy",
+        "themes": "Ambition, Fate, Rebellion, Power",
+        "sample": "Reach for greatness, though the heavens may recoil."
+    },
+    {
+        "id": "john-donne",
+        "name": "John Donne",
+        "bio": "Metaphysical poet and cleric whose intricate, witty verse delves into themes of love, religion, and mortality.",
+        "genre": "Metaphysical Poetry",
+        "themes": "Love, Religion, Mortality, Spirituality",
+        "sample": "No man is an island entire of itself."
+    },
+    {
+        "id": "ben-jonson",
+        "name": "Ben Jonson",
+        "bio": "English playwright and poet celebrated for his satirical comedies and lyric poetry reflecting on society.",
+        "genre": "Drama, Satire, Poetry",
+        "themes": "Satire, Society, Human Nature",
+        "sample": "Art is the mirror in which we glimpse our true selves."
+    },
+    {
+        "id": "edmund-spenser",
+        "name": "Edmund Spenser",
+        "bio": "English poet best known for his epic allegory \"The Faerie Queene,\" which celebrates chivalric virtues and romance.",
+        "genre": "Epic Poetry",
+        "themes": "Chivalry, Allegory, Heroism, Romance",
+        "sample": "A knight in shining armor, ever brave and true."
+    },
+    {
+        "id": "john-milton",
+        "name": "John Milton",
+        "bio": "English poet and intellectual whose epic \"Paradise Lost\" explores themes of rebellion, redemption, and free will.",
+        "genre": "Epic Poetry, Religious Poetry",
+        "themes": "Rebellion, Redemption, Free Will, Divine Justice",
+        "sample": "Better to reign in Hell than serve in Heaven."
+    },
+    {
+        "id": "michel-de-montaigne",
+        "name": "Michel de Montaigne",
+        "bio": "French essayist renowned for his \"Essays,\" which blend personal reflection with philosophical inquiry.",
+        "genre": "Essays",
+        "themes": "Self-reflection, Human Nature, Skepticism, Experience",
+        "sample": "I am myself the matter of my book."
+    },
+    {
+        "id": "miguel-de-cervantes",
+        "name": "Miguel de Cervantes",
+        "bio": "Spanish novelist best known for \"Don Quixote,\" a foundational work that blurs the lines between reality and illusion.",
+        "genre": "Novel, Satire",
+        "themes": "Reality vs. Illusion, Chivalry, Human Folly",
+        "sample": "When life seems absurd, let your dreams take flight."
+    },
+    {
+        "id": "torquato-tasso",
+        "name": "Torquato Tasso",
+        "bio": "Italian poet famous for his epic poem \"Jerusalem Delivered,\" which retells the crusades with a mix of romance and heroism.",
+        "genre": "Epic Poetry",
+        "themes": "Heroism, Romance, Religion, Chivalry",
+        "sample": "In the midst of battle, honor and valor shine."
+    },
+    {
+        "id": "sir-philip-sidney",
+        "name": "Sir Philip Sidney",
+        "bio": "English poet, courtier, and soldier whose works\u2014such as \"Astrophel and Stella\"\u2014embody courtly love and elegance.",
+        "genre": "Sonnet, Courtly Love Poetry",
+        "themes": "Love, Beauty, Honor, Chivalry",
+        "sample": "Beauty awakens the soul to its divine nature."
+    },
+    {
+        "id": "lope-de-vega",
+        "name": "Lope de Vega",
+        "bio": "Spanish playwright and poet whose prolific output during the Golden Age helped shape modern Spanish literature.",
+        "genre": "Drama, Poetry",
+        "themes": "Passion, Honor, Social Norms, Comedy",
+        "sample": "In every play, the passion of life is unveiled."
+    },
+    {
+        "id": "pedro-calderon-de-la-barca",
+        "name": "Pedro Calder\u00f3n de la Barca",
+        "bio": "Spanish dramatist known for his allegorical plays such as \"Life is a Dream,\" which explore illusion and reality.",
+        "genre": "Drama, Allegory",
+        "themes": "Illusion vs. Reality, Destiny, Faith",
+        "sample": "Life is but a dream, fleeting and uncertain."
+    },
+    {
+        "id": "john-lyly",
+        "name": "John Lyly",
+        "bio": "English writer known for his ornate prose style and contributions to Renaissance literature.",
+        "genre": "Prose, Rhetorical Fiction",
+        "themes": "Elegance, Courtly Love, Satire",
+        "sample": "Words can be as graceful as a dance."
+    },
+    {
+        "id": "thomas-kyd",
+        "name": "Thomas Kyd",
+        "bio": "English playwright best known for \"The Spanish Tragedy,\" which helped establish the revenge tragedy genre.",
+        "genre": "Tragedy",
+        "themes": "Revenge, Betrayal, Corruption, Fate",
+        "sample": "Betrayal cuts deeper than the sharpest blade."
+    },
+    {
+        "id": "john-webster",
+        "name": "John Webster",
+        "bio": "English dramatist recognized for his dark tragedies like \"The Duchess of Malfi,\" exploring themes of corruption and fate.",
+        "genre": "Tragedy",
+        "themes": "Corruption, Revenge, Fate, Human Frailty",
+        "sample": "The human soul is fragile, easily shattered by treachery."
+    },
+    {
+        "id": "thomas-dekker",
+        "name": "Thomas Dekker",
+        "bio": "English playwright and pamphleteer whose works offer insights into the social life of Elizabethan England.",
+        "genre": "Drama, Prose",
+        "themes": "Urban Life, Social Commentary, Satire",
+        "sample": "The streets whisper countless tales of human endeavor."
+    },
+    {
+        "id": "thomas-nashe",
+        "name": "Thomas Nashe",
+        "bio": "English satirist and prose writer known for his biting wit and diverse literary output.",
+        "genre": "Satirical Prose",
+        "themes": "Humor, Critique, Social Commentary",
+        "sample": "A sharp tongue reveals the truth behind pretense."
+    },
+    {
+        "id": "pierre-de-ronsard",
+        "name": "Pierre de Ronsard",
+        "bio": "French Renaissance poet often called the \"Prince of Poets,\" celebrated for his love sonnets and odes.",
+        "genre": "Lyric Poetry",
+        "themes": "Love, Nature, Beauty, Classical Ideals",
+        "sample": "Let love be the light that guides our hearts."
+    },
+    {
+        "id": "joachim-du-bellay",
+        "name": "Joachim du Bellay",
+        "bio": "French poet and critic who championed classical influences in French literature.",
+        "genre": "Lyric Poetry, Essays",
+        "themes": "National Identity, Classical Influence, Artistic Aspiration",
+        "sample": "In art, we discover the soul of our nation."
+    },
+    {
+        "id": "garcilaso-de-la-vega",
+        "name": "Garcilaso de la Vega",
+        "bio": "Spanish poet whose lyric works combined Italian Renaissance influences with Spanish themes.",
+        "genre": "Lyric Poetry",
+        "themes": "Nature, Love, Pastoral Themes, Honor",
+        "sample": "The beauty of nature speaks in a language all its own."
+    },
+    {
+        "id": "voltaire",
+        "name": "Voltaire",
+        "bio": "French writer, philosopher, and satirist known for his advocacy of civil liberties and criticism of institutional power.",
+        "genre": "Satire, Philosophical Essay",
+        "themes": "Enlightenment, Freedom, Reason, Critique of Religion",
+        "sample": "I do not agree with what you say, but I will defend to the death your right to say it."
+    },
+    {
+        "id": "jean-jacques-rousseau",
+        "name": "Jean-Jacques Rousseau",
+        "bio": "Influential philosopher and writer whose works helped shape Enlightenment thought and modern educational theory.",
+        "genre": "Philosophy, Political Theory",
+        "themes": "Natural Goodness, Freedom, Social Critique, Education",
+        "sample": "Man is born free, and everywhere he is in chains."
+    },
+    {
+        "id": "jonathan-swift",
+        "name": "Jonathan Swift",
+        "bio": "Irish satirist best known for \"Gulliver's Travels,\" a biting critique of human nature and society.",
+        "genre": "Satire, Prose",
+        "themes": "Human Folly, Social Critique, Irony, Politics",
+        "sample": "Vision is the art of seeing what is invisible to others."
+    },
+    {
+        "id": "alexander-pope",
+        "name": "Alexander Pope",
+        "bio": "English poet renowned for his satirical verse and refined translations, exemplified by works like \"The Rape of the Lock.\"",
+        "genre": "Satirical Poetry",
+        "themes": "Satire, Wit, Human Nature, Social Commentary",
+        "sample": "Hope springs eternal in the human breast."
+    },
+    {
+        "id": "samuel-johnson",
+        "name": "Samuel Johnson",
+        "bio": "English writer, lexicographer, and critic known for his seminal \"A Dictionary of the English Language\" and influential essays.",
+        "genre": "Essay, Biography, Lexicography",
+        "themes": "Language, Morality, Society, Criticism",
+        "sample": "Integrity is doing the right thing, even when no one is watching."
+    },
+    {
+        "id": "daniel-defoe",
+        "name": "Daniel Defoe",
+        "bio": "English writer and journalist best known for \"Robinson Crusoe,\" a pioneering work of realistic fiction.",
+        "genre": "Novel, Adventure",
+        "themes": "Survival, Realism, Society, Individualism",
+        "sample": "Cast off your chains and venture boldly forth."
+    },
+    {
+        "id": "henry-fielding",
+        "name": "Henry Fielding",
+        "bio": "English novelist and dramatist whose humorous and satirical works, such as \"Tom Jones,\" ushered in a new era of realism.",
+        "genre": "Novel, Comedy",
+        "themes": "Social Critique, Satire, Realism, Human Nature",
+        "sample": "Life is a comedy for those who think, a tragedy for those who feel."
+    },
+    {
+        "id": "oliver-goldsmith",
+        "name": "Oliver Goldsmith",
+        "bio": "Irish writer celebrated for his novel \"The Vicar of Wakefield\" and his contributions to pastoral literature.",
+        "genre": "Novel, Pastoral",
+        "themes": "Sentimentality, Social Commentary, Humor, Rural Life",
+        "sample": "The gentle hand of nature guides us all."
+    },
+    {
+        "id": "edmund-burke",
+        "name": "Edmund Burke",
+        "bio": "Irish statesman, philosopher, and writer whose political treatises influenced modern conservatism.",
+        "genre": "Political Philosophy, Essays",
+        "themes": "Tradition, Social Order, Politics, Conservatism",
+        "sample": "A state without change is a state without a future."
+    },
+    {
+        "id": "mary-wollstonecraft",
+        "name": "Mary Wollstonecraft",
+        "bio": "British writer best known for \"A Vindication of the Rights of Woman,\" a foundational feminist text.",
+        "genre": "Philosophy, Prose",
+        "themes": "Feminism, Equality, Education, Social Reform",
+        "sample": "Strengthen the female mind by enlarging it."
+    },
+    {
+        "id": "tobias-smollett",
+        "name": "Tobias Smollett",
+        "bio": "Scottish novelist and satirist known for his picaresque novels that offer keen insights into 18th-century society.",
+        "genre": "Novel, Satire",
+        "themes": "Adventure, Social Critique, Humor, Realism",
+        "sample": "Every page unveils a new facet of human folly."
+    },
+    {
+        "id": "david-hume",
+        "name": "David Hume",
+        "bio": "Scottish philosopher and historian whose empiricism and skepticism are hallmarks of Enlightenment thought.",
+        "genre": "Philosophy, History",
+        "themes": "Empiricism, Skepticism, Human Nature, Reason",
+        "sample": "Beauty in things exists in the mind which contemplates them."
+    },
+    {
+        "id": "immanuel-kant",
+        "name": "Immanuel Kant",
+        "bio": "German philosopher whose critical philosophy revolutionized modern metaphysics and ethics.",
+        "genre": "Philosophy",
+        "themes": "Reason, Morality, Enlightenment, Duty",
+        "sample": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law."
+    },
+    {
+        "id": "friedrich-schiller",
+        "name": "Friedrich Schiller",
+        "bio": "German poet, playwright, and philosopher celebrated for his dramatic works exploring freedom and human potential.",
+        "genre": "Drama, Poetry",
+        "themes": "Freedom, Idealism, Beauty, Human Potential",
+        "sample": "Art ennobles the soul and frees the mind."
+    },
+    {
+        "id": "johann-wolfgang-von-goethe",
+        "name": "Johann Wolfgang von Goethe",
+        "bio": "German writer whose masterpieces, including \"Faust,\" have had a profound impact on European literature.",
+        "genre": "Drama, Poetry, Novel",
+        "themes": "Human Emotion, Nature, Transformation, Fate",
+        "sample": "Genius is an infinite capacity for taking pains."
+    },
+    {
+        "id": "william-wordsworth",
+        "name": "William Wordsworth",
+        "bio": "English poet and a central figure of Romanticism, known for celebrating nature and the human spirit in \"Lyrical Ballads.\"",
+        "genre": "Lyric Poetry",
+        "themes": "Nature, Emotion, Memory, Sublimity",
+        "sample": "I wandered lonely as a cloud."
+    },
+    {
+        "id": "samuel-taylor-coleridge",
+        "name": "Samuel Taylor Coleridge",
+        "bio": "English Romantic poet whose works, including \"The Rime of the Ancient Mariner,\" combine imagination with profound emotion.",
+        "genre": "Romantic Poetry",
+        "themes": "Imagination, Nature, the Supernatural, Emotion",
+        "sample": "Water, water, everywhere, nor any drop to drink."
+    },
+    {
+        "id": "lord-byron",
+        "name": "Lord Byron",
+        "bio": "British Romantic poet celebrated for his passionate verse and flamboyant personality.",
+        "genre": "Romantic Poetry",
+        "themes": "Passion, Rebellion, Melancholy, Adventure",
+        "sample": "I love not man the less, but nature more."
+    },
+    {
+        "id": "percy-bysshe-shelley",
+        "name": "Percy Bysshe Shelley",
+        "bio": "English Romantic poet known for his visionary verse and radical ideas as seen in works like \"Ozymandias.\"",
+        "genre": "Romantic Poetry",
+        "themes": "Idealism, Nature, Revolution, Beauty",
+        "sample": "Look on my works, ye Mighty, and despair!"
+    },
+    {
+        "id": "john-keats",
+        "name": "John Keats",
+        "bio": "English Romantic poet whose odes explore beauty, transience, and the power of art.",
+        "genre": "Romantic Poetry",
+        "themes": "Beauty, Transience, Sensuality, Mortality",
+        "sample": "Beauty is truth, truth beauty,\u2014that is all ye know on earth, and all ye need to know."
+    },
+    {
+        "id": "william-blake",
+        "name": "William Blake",
+        "bio": "English poet, painter, and printmaker whose mystical works bridge art and poetry.",
+        "genre": "Romantic Poetry, Visual Art",
+        "themes": "Mysticism, Innocence vs. Experience, Vision, Social Critique",
+        "sample": "I must create a system, or be enslaved by another man's."
+    },
+    {
+        "id": "mary-shelley",
+        "name": "Mary Shelley",
+        "bio": "English novelist best known for \"Frankenstein,\" a pioneering work of science fiction exploring creation and responsibility.",
+        "genre": "Gothic Fiction, Science Fiction",
+        "themes": "Creation, Responsibility, Isolation, Hubris",
+        "sample": "Beware; for I am fearless, and therefore powerful."
+    },
+    {
+        "id": "edgar-allan-poe",
+        "name": "Edgar Allan Poe",
+        "bio": "American writer known for his gothic tales and poems that delve into the macabre and mysterious aspects of the human mind.",
+        "genre": "Gothic Fiction, Poetry",
+        "themes": "Macabre, Mystery, Madness, Death",
+        "sample": "All that we see or seem is but a dream within a dream."
+    },
+    {
+        "id": "ralph-waldo-emerson",
+        "name": "Ralph Waldo Emerson",
+        "bio": "American essayist and poet who was a leading figure in Transcendentalism, emphasizing individualism and nature.",
+        "genre": "Essay, Poetry",
+        "themes": "Individualism, Nature, Transcendence, Self-Reliance",
+        "sample": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."
+    },
+    {
+        "id": "henry-david-thoreau",
+        "name": "Henry David Thoreau",
+        "bio": "American essayist and philosopher best known for \"Walden,\" a reflection on simple living in natural surroundings.",
+        "genre": "Essay, Prose",
+        "themes": "Simplicity, Nature, Civil Disobedience, Self-Reliance",
+        "sample": "I went to the woods because I wished to live deliberately."
+    },
+    {
+        "id": "victor-hugo",
+        "name": "Victor Hugo",
+        "bio": "French novelist and poet famed for works such as \"Les Mis\u00e9rables,\" which blend social critique with epic storytelling.",
+        "genre": "Novel, Poetry, Drama",
+        "themes": "Social Justice, Redemption, Love, Revolution",
+        "sample": "Even the darkest night will end and the sun will rise."
+    },
+    {
+        "id": "alphonse-de-lamartine",
+        "name": "Alphonse de Lamartine",
+        "bio": "French poet and politician whose lyrical works express romantic melancholy and patriotic sentiment.",
+        "genre": "Lyric Poetry, Prose",
+        "themes": "Romance, Nature, Melancholy, Patriotism",
+        "sample": "The gentle murmur of nature fills the soul with longing."
+    },
+    {
+        "id": "friedrich-holdlerlin",
+        "name": "Friedrich H\u00f6lderlin",
+        "bio": "German poet whose lyrical verses combine classical themes with deep existential inquiry.",
+        "genre": "Lyric Poetry",
+        "themes": "Nature, Idealism, Tragedy, Existential Longing",
+        "sample": "The soul's yearning echoes in the silence of eternity."
+    },
+    {
+        "id": "john-clare",
+        "name": "John Clare",
+        "bio": "English poet celebrated for his vivid depictions of rural life and nature, often marked by nostalgia and melancholy.",
+        "genre": "Lyric Poetry",
+        "themes": "Nature, Rural Life, Melancholy, Nostalgia",
+        "sample": "I am a simple, rustic man, a child of the earth."
+    },
+    {
+        "id": "robert-southey",
+        "name": "Robert Southey",
+        "bio": "English poet and historian known for his narrative poems and historical writings reflecting on human nature.",
+        "genre": "Narrative Poetry, Essays",
+        "themes": "History, Patriotism, Morality, Human Nature",
+        "sample": "In history, we find the lessons of the past echoed in the present."
+    },
+    {
+        "id": "charles-dickens",
+        "name": "Charles Dickens",
+        "bio": "English novelist and social critic celebrated for his vivid portrayals of Victorian life and its social injustices.",
+        "genre": "Novel, Social Criticism",
+        "themes": "Poverty, Injustice, Redemption, Humanity",
+        "sample": "It was the best of times, it was the worst of times."
+    },
+    {
+        "id": "george-eliot",
+        "name": "George Eliot (Mary Ann Evans)",
+        "bio": "English novelist acclaimed for psychologically complex works such as \"Middlemarch,\" which examine society and human relationships.",
+        "genre": "Novel",
+        "themes": "Society, Psychology, Gender, Social Reform",
+        "sample": "It is never too late to be what you might have been."
+    },
+    {
+        "id": "thomas-hardy",
+        "name": "Thomas Hardy",
+        "bio": "English novelist and poet whose works often depict tragic rural life and the inexorable forces of fate.",
+        "genre": "Novel, Poetry",
+        "themes": "Fate, Nature, Tragedy, Rural Life",
+        "sample": "And in the darkness of despair, the truth emerges."
+    },
+    {
+        "id": "charlotte-bronte",
+        "name": "Charlotte Bront\u00eb",
+        "bio": "English novelist best known for \"Jane Eyre,\" exploring passion, independence, and social critique.",
+        "genre": "Novel",
+        "themes": "Independence, Passion, Social Critique, Feminism",
+        "sample": "Reader, I married him."
+    },
+    {
+        "id": "emily-bronte",
+        "name": "Emily Bront\u00eb",
+        "bio": "English novelist and poet whose only novel, \"Wuthering Heights,\" is famed for its intense exploration of love and obsession.",
+        "genre": "Novel, Poetry",
+        "themes": "Passion, Isolation, Nature, Obsession",
+        "sample": "Whatever our souls are made of, his and mine are the same."
+    },
+    {
+        "id": "anne-bronte",
+        "name": "Anne Bront\u00eb",
+        "bio": "English writer whose novels and poems offer deep emotional insight and keen social commentary.",
+        "genre": "Novel, Poetry",
+        "themes": "Emotion, Social Critique, Feminism, Identity",
+        "sample": "I write with the heart, and I feel what others might not."
+    },
+    {
+        "id": "oscar-wilde",
+        "name": "Oscar Wilde",
+        "bio": "Irish playwright, poet, and critic known for his wit, flamboyant style, and social commentary in works such as \"The Picture of Dorian Gray.\"",
+        "genre": "Drama, Prose, Poetry",
+        "themes": "Aesthetics, Satire, Social Critique, Identity",
+        "sample": "Be yourself; everyone else is already taken."
+    },
+    {
+        "id": "alfred-tennyson",
+        "name": "Alfred Tennyson",
+        "bio": "English poet laureate whose works capture the spirit and conflicts of Victorian England through grand narrative and reflective verse.",
+        "genre": "Poetry",
+        "themes": "Heroism, Nature, Loss, Victorian Values",
+        "sample": "Tis better to have loved and lost than never to have loved at all."
+    },
+    {
+        "id": "elizabeth-gaskell",
+        "name": "Elizabeth Gaskell",
+        "bio": "English novelist and short-story writer known for her empathetic portrayals of Victorian society and its challenges.",
+        "genre": "Novel, Short Story",
+        "themes": "Social Class, Industrialization, Empathy, Society",
+        "sample": "The story of every life is woven with both sorrow and hope."
+    },
+    {
+        "id": "lewis-carroll",
+        "name": "Lewis Carroll",
+        "bio": "English writer, mathematician, and poet best known for his imaginative, playful works such as \"Alice's Adventures in Wonderland.\"",
+        "genre": "Children's Literature, Nonsense Poetry",
+        "themes": "Fantasy, Logic, Absurdity, Playfulness",
+        "sample": "Curiouser and curiouser!"
+    },
+    {
+        "id": "robert-browning",
+        "name": "Robert Browning",
+        "bio": "English poet and dramatist celebrated for his dramatic monologues that explore psychological complexity and power dynamics.",
+        "genre": "Dramatic Monologue, Poetry",
+        "themes": "Psychological Insight, Love, Power, Mystery",
+        "sample": "Ah, but a man's reach should exceed his grasp."
+    },
+    {
+        "id": "wilkie-collins",
+        "name": "Wilkie Collins",
+        "bio": "English novelist and playwright known as a pioneer of the sensation novel, blending mystery and social commentary.",
+        "genre": "Novel, Sensation Fiction",
+        "themes": "Mystery, Crime, Social Injustice, Suspense",
+        "sample": "In the dark corners of the city, secrets abound."
+    },
+    {
+        "id": "george-gissing",
+        "name": "George Gissing",
+        "bio": "English novelist noted for his realistic portrayals of working-class life and the challenges faced by the impoverished.",
+        "genre": "Novel",
+        "themes": "Realism, Poverty, Social Constraints, Human Struggle",
+        "sample": "The weight of society bears down on the lonely soul."
+    },
+    {
+        "id": "ae-housman",
+        "name": "A.E. Housman",
+        "bio": "English poet best known for his melancholic lyrics in \"A Shropshire Lad,\" evoking the passage of time and lost youth.",
+        "genre": "Lyric Poetry",
+        "themes": "Nostalgia, Mortality, Nature, Melancholy",
+        "sample": "In quiet fields, the echoes of lost youth linger."
+    },
+    {
+        "id": "henry-wadsworth-longfellow",
+        "name": "Henry Wadsworth Longfellow",
+        "bio": "American poet celebrated for his narrative poems that capture legendary and historical aspects of American culture.",
+        "genre": "Narrative Poetry",
+        "themes": "History, Patriotism, Legend, Americana",
+        "sample": "Paul Revere\u2019s ride echoes through the ages."
+    },
+    {
+        "id": "matthew-arnold",
+        "name": "Matthew Arnold",
+        "bio": "English poet and cultural critic whose works reflect on the tension between modernity and tradition in society.",
+        "genre": "Poetry, Cultural Criticism",
+        "themes": "Modernity, Tradition, Society, Loss",
+        "sample": "Culture is the sharpened mirror of our lives."
+    },
+    {
+        "id": "john-ruskin",
+        "name": "John Ruskin",
+        "bio": "English art critic and social thinker whose prolific writings combined aesthetic theory with calls for social reform.",
+        "genre": "Art Criticism, Essays",
+        "themes": "Art, Society, Morality, Social Reform",
+        "sample": "Beauty is the light that guides society."
+    },
+    {
+        "id": "rudyard-kipling",
+        "name": "Rudyard Kipling",
+        "bio": "English writer known for his vivid portrayals of imperial life in works such as \"The Jungle Book,\" reflecting on colonial themes.",
+        "genre": "Short Story, Poetry, Novel",
+        "themes": "Imperialism, Adventure, Colonial Life, Social Commentary",
+        "sample": "If history were told in syllables, it would be an epic."
+    },
+    {
+        "id": "elizabeth-barrett-browning",
+        "name": "Elizabeth Barrett Browning",
+        "bio": "English poet acclaimed for her love sonnets and socially conscious verse that blend passion with progressive ideals.",
+        "genre": "Poetry",
+        "themes": "Love, Social Justice, Feminism, Emotion",
+        "sample": "How do I love thee? Let me count the ways."
+    },
+    {
+        "id": "thomas-carlyle",
+        "name": "Thomas Carlyle",
+        "bio": "Scottish philosopher and essayist whose works examine industrial society, leadership, and the nature of change.",
+        "genre": "Essay, Biography, History",
+        "themes": "Industrial Society, Leadership, Morality, Change",
+        "sample": "Change is the law of life, and those who look only to the past or present are certain to miss the future."
+    },
+    {
+        "id": "ts-eliot",
+        "name": "T.S. Eliot",
+        "bio": "American-born British poet whose modernist masterpieces like \"The Waste Land\" express the fragmentation of modern life.",
+        "genre": "Modernist Poetry",
+        "themes": "Disillusionment, Fragmentation, Time, Modernity",
+        "sample": "April is the cruellest month, breeding lilacs out of the dead land."
+    },
+    {
+        "id": "ezra-pound",
+        "name": "Ezra Pound",
+        "bio": "American poet and critic whose innovative techniques helped shape Modernist poetry.",
+        "genre": "Modernist Poetry",
+        "themes": "Innovation, Fragmentation, History, Culture",
+        "sample": "Make it new."
+    },
+    {
+        "id": "james-joyce",
+        "name": "James Joyce",
+        "bio": "Irish novelist renowned for his experimental narrative style in works such as \"Ulysses\" and \"Dubliners.\"",
+        "genre": "Modernist Novel, Short Story",
+        "themes": "Stream of Consciousness, Identity, Complexity, Urban Life",
+        "sample": "History, Stephen, and me, were all in one boat."
+    },
+    {
+        "id": "virginia-woolf",
+        "name": "Virginia Woolf",
+        "bio": "English writer whose modernist novels and essays use stream-of-consciousness techniques to explore inner life and perception.",
+        "genre": "Modernist Novel, Essay",
+        "themes": "Psychology, Feminism, Time, Perception",
+        "sample": "Lock up your libraries if you like; but there is no gate, no lock, no bolt that you can set upon the freedom of my mind."
+    },
+    {
+        "id": "dh-lawrence",
+        "name": "D.H. Lawrence",
+        "bio": "English novelist and poet known for his raw depictions of human relationships and sexuality, as seen in \"Sons and Lovers.\"",
+        "genre": "Novel, Poetry",
+        "themes": "Human Relationships, Sexuality, Nature, Industrialization",
+        "sample": "The best lack all conviction, while the worst are full of passionate intensity."
+    },
+    {
+        "id": "william-faulkner",
+        "name": "William Faulkner",
+        "bio": "American novelist celebrated for his complex narrative style and deep explorations of the human condition in the American South.",
+        "genre": "Modernist Novel",
+        "themes": "Memory, Southern Life, Tragedy, Complexity",
+        "sample": "The past is never dead. It's not even past."
+    },
+    {
+        "id": "franz-kafka",
+        "name": "Franz Kafka",
+        "bio": "German-speaking writer whose surreal and existential works explore themes of alienation and the absurdity of bureaucracy.",
+        "genre": "Modernist Fiction",
+        "themes": "Alienation, Bureaucracy, Absurdity, Existentialism",
+        "sample": "In the fight between you and the world, back the world."
+    },
+    {
+        "id": "marcel-proust",
+        "name": "Marcel Proust",
+        "bio": "French novelist famed for \"In Search of Lost Time,\" a monumental work examining memory, time, and human experience.",
+        "genre": "Modernist Novel",
+        "themes": "Memory, Time, Perception, Social Class",
+        "sample": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes."
+    },
+    {
+        "id": "gertrude-stein",
+        "name": "Gertrude Stein",
+        "bio": "American modernist writer whose experimental language and style challenged conventional narrative forms.",
+        "genre": "Modernist Prose, Poetry",
+        "themes": "Experimentation, Repetition, Identity, Art",
+        "sample": "A rose is a rose is a rose."
+    },
+    {
+        "id": "thomas-mann",
+        "name": "Thomas Mann",
+        "bio": "German novelist and essayist known for his detailed explorations of modernity and human psychology.",
+        "genre": "Modernist Novel, Essays",
+        "themes": "Modernity, Psychology, Culture, Decline",
+        "sample": "It is not death that a man should fear, but he should fear never beginning to live."
+    },
+    {
+        "id": "wb-yeats",
+        "name": "W.B. Yeats",
+        "bio": "Irish poet and playwright whose symbolic verses reflect on Irish identity and spiritual transformation.",
+        "genre": "Modernist Poetry, Drama",
+        "themes": "Mysticism, Irish Identity, Transformation, Politics",
+        "sample": "But I, being poor, have only my dreams; I have spread my dreams under your feet; Tread softly because you tread on my dreams."
+    },
+    {
+        "id": "samuel-beckett",
+        "name": "Samuel Beckett",
+        "bio": "Irish novelist and playwright whose minimalist, absurd works, such as \"Waiting for Godot,\" explore existential themes.",
+        "genre": "Modernist Drama, Prose",
+        "themes": "Absurdity, Existentialism, Isolation, Minimalism",
+        "sample": "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
+    },
+    {
+        "id": "jorge-luis-borges",
+        "name": "Jorge Luis Borges",
+        "bio": "Argentine writer celebrated for his intricate short stories and essays that delve into infinity, labyrinths, and literary puzzles.",
+        "genre": "Short Story, Essay",
+        "themes": "Infinity, Labyrinths, Reality, Literature",
+        "sample": "I have always imagined that Paradise will be a kind of library."
+    },
+    {
+        "id": "em-forster",
+        "name": "E.M. Forster",
+        "bio": "English novelist known for his incisive depictions of social class and human connection in works such as \"A Passage to India.\"",
+        "genre": "Novel",
+        "themes": "Social Class, Human Connection, Colonialism, Modernity",
+        "sample": "Only connect!"
+    },
+    {
+        "id": "katherine-mansfield",
+        "name": "Katherine Mansfield",
+        "bio": "New Zealand modernist writer celebrated for her short stories that capture fleeting moments and emotional nuance.",
+        "genre": "Short Story",
+        "themes": "Ephemeral Moments, Modern Life, Emotion, Feminism",
+        "sample": "The air was full of longing."
+    },
+    {
+        "id": "andre-gide",
+        "name": "Andr\u00e9 Gide",
+        "bio": "French author and Nobel laureate whose works explore the tensions of individual freedom and societal morality.",
+        "genre": "Novel, Memoir",
+        "themes": "Individualism, Morality, Freedom, Self-Discovery",
+        "sample": "You cannot discover new oceans unless you have the courage to lose sight of the shore."
+    },
+    {
+        "id": "wyndham-lewis",
+        "name": "Wyndham Lewis",
+        "bio": "English writer and painter associated with Modernism, known for his provocative prose and art criticism.",
+        "genre": "Modernist Prose, Art Criticism",
+        "themes": "Modernity, Industrialization, Alienation, Experimentation",
+        "sample": "The modern world is a canvas of contradiction."
+    },
+    {
+        "id": "jean-rhys",
+        "name": "Jean Rhys",
+        "bio": "Dominican-born British writer whose works offer powerful examinations of exile, gender, and identity.",
+        "genre": "Novel, Short Story",
+        "themes": "Exile, Identity, Gender, Postcolonial Critique",
+        "sample": "I was never happy, and I have never been happy."
+    },
+    {
+        "id": "robert-musil",
+        "name": "Robert Musil",
+        "bio": "Austrian novelist renowned for his modernist work \"The Man Without Qualities,\" which explores intellectual life and societal change.",
+        "genre": "Modernist Novel",
+        "themes": "Intellectualism, Society, Modernity, Uncertainty",
+        "sample": "In the realm of ideas, certainty is the enemy of progress."
+    },
+    {
+        "id": "willa-cather",
+        "name": "Willa Cather",
+        "bio": "American novelist celebrated for her evocative portrayals of pioneer life and the American West.",
+        "genre": "Novel",
+        "themes": "Pioneer Life, Identity, Isolation, the American West",
+        "sample": "The landscape of the heart mirrors the vast, open plains."
+    },
+    {
+        "id": "salman-rushdie",
+        "name": "Salman Rushdie",
+        "bio": "British-Indian novelist whose magical realist works, such as \"Midnight's Children,\" blend history and fantasy.",
+        "genre": "Magical Realism, Novel",
+        "themes": "Migration, Identity, Politics, Culture",
+        "sample": "Reality is a mosaic of stories and dreams."
+    },
+    {
+        "id": "don-delillo",
+        "name": "Don DeLillo",
+        "bio": "American novelist known for his sharp portrayals of modern life, media culture, and consumerism in works like \"White Noise.\"",
+        "genre": "Novel, Essay",
+        "themes": "Media, Consumerism, Modern Society, Identity",
+        "sample": "In a world of noise, silence speaks volumes."
+    },
+    {
+        "id": "thomas-pynchon",
+        "name": "Thomas Pynchon",
+        "bio": "American novelist celebrated for his complex, postmodern narratives that blend history, technology, and paranoia.",
+        "genre": "Postmodern Novel",
+        "themes": "Paranoia, History, Technology, Chaos",
+        "sample": "The labyrinth of modernity defies all reason."
+    },
+    {
+        "id": "margaret-atwood",
+        "name": "Margaret Atwood",
+        "bio": "Canadian novelist, poet, and critic renowned for her speculative fiction and dystopian themes, notably in \"The Handmaid's Tale.\"",
+        "genre": "Novel, Speculative Fiction",
+        "themes": "Feminism, Dystopia, Power, Identity",
+        "sample": "Freedom, like art, is a human invention."
+    },
+    {
+        "id": "toni-morrison",
+        "name": "Toni Morrison",
+        "bio": "American novelist and Nobel laureate whose works powerfully explore African American history and identity.",
+        "genre": "Novel",
+        "themes": "African American Experience, Identity, History, Trauma",
+        "sample": "If you surrender to the air, you can ride it."
+    },
+    {
+        "id": "cormac-mccarthy",
+        "name": "Cormac McCarthy",
+        "bio": "American novelist known for his spare, lyrical prose and exploration of violence and morality in harsh landscapes.",
+        "genre": "Postmodern Novel",
+        "themes": "Violence, Survival, Morality, Isolation",
+        "sample": "There is no order, only chaos and the struggle to survive."
+    },
+    {
+        "id": "jd-salinger",
+        "name": "J.D. Salinger",
+        "bio": "American writer best known for \"The Catcher in the Rye,\" capturing the disaffected voice of post-war youth.",
+        "genre": "Novel",
+        "themes": "Alienation, Youth, Innocence, Identity",
+        "sample": "Don't ever tell anybody anything. If you do, you start missing everybody."
+    },
+    {
+        "id": "philip-roth",
+        "name": "Philip Roth",
+        "bio": "American novelist noted for his provocative explorations of identity, sexuality, and modern American life.",
+        "genre": "Novel",
+        "themes": "Jewish Identity, Sexuality, American Society, Self-Examination",
+        "sample": "A person\u2019s true self is hidden behind layers of society\u2019s expectations."
+    },
+    {
+        "id": "gabriel-garcia-marquez",
+        "name": "Gabriel Garc\u00eda M\u00e1rquez",
+        "bio": "Colombian novelist and Nobel laureate whose seminal work \"One Hundred Years of Solitude\" popularized magical realism.",
+        "genre": "Magical Realism, Novel",
+        "themes": "Myth, History, Love, Latin American Identity",
+        "sample": "It was inevitable: the scent of bitter almonds always reminded him of the fate of his family."
+    },
+    {
+        "id": "italo-calvino",
+        "name": "Italo Calvino",
+        "bio": "Italian novelist and short story writer known for his imaginative, metafictional narratives such as \"Invisible Cities.\"",
+        "genre": "Novel, Short Story",
+        "themes": "Imagination, Fantasy, Urban Life, Playfulness",
+        "sample": "Cities, like dreams, exist only in the mind."
+    },
+    {
+        "id": "jorge-amado",
+        "name": "Jorge Amado",
+        "bio": "Brazilian writer celebrated for his vibrant portrayals of Brazilian society and its cultural struggles.",
+        "genre": "Novel",
+        "themes": "Brazilian Society, Culture, Social Struggle, Romance",
+        "sample": "In every corner of Brazil, passion and struggle intertwine."
+    },
+    {
+        "id": "chinua-achebe",
+        "name": "Chinua Achebe",
+        "bio": "Nigerian novelist best known for \"Things Fall Apart,\" which examines the impact of colonialism on indigenous African societies.",
+        "genre": "Novel",
+        "themes": "Colonialism, Tradition vs. Change, Identity, Society",
+        "sample": "The white man is very clever. He came quietly and peaceably with his religion."
+    },
+    {
+        "id": "nadine-gordimer",
+        "name": "Nadine Gordimer",
+        "bio": "South African writer and Nobel laureate whose novels explore the complexities of apartheid and social injustice.",
+        "genre": "Novel",
+        "themes": "Apartheid, Social Injustice, Identity, Politics",
+        "sample": "The past is never dead. It\u2019s not even past."
+    },
+    {
+        "id": "doris-lessing",
+        "name": "Doris Lessing",
+        "bio": "British-Zimbabwean novelist known for works that examine political, social, and psychological themes through innovative narrative forms.",
+        "genre": "Novel, Short Story",
+        "themes": "Psychology, Politics, Social Change, Feminism",
+        "sample": "One cannot imagine a better society than the one we have yet to create."
+    },
+    {
+        "id": "alice-walker",
+        "name": "Alice Walker",
+        "bio": "American novelist, poet, and activist best known for \"The Color Purple,\" which explores race, gender, and empowerment.",
+        "genre": "Novel, Poetry",
+        "themes": "Race, Gender, Social Justice, Identity",
+        "sample": "The color purple speaks of pain and resilience."
+    },
+    {
+        "id": "david-foster-wallace",
+        "name": "David Foster Wallace",
+        "bio": "American novelist and essayist celebrated for his complex narratives and deep cultural insights in works like \"Infinite Jest.\"",
+        "genre": "Novel, Essay",
+        "themes": "Modern Life, Irony, Complexity, Isolation",
+        "sample": "The truth will set you free, but not until it is finished with you."
+    },
+    {
+        "id": "michael-ondaatje",
+        "name": "Michael Ondaatje",
+        "bio": "Sri Lankan-born Canadian writer known for his lyrical prose and the blending of history and fiction in works such as \"The English Patient.\"",
+        "genre": "Novel, Poetry",
+        "themes": "Memory, Identity, History, Art",
+        "sample": "Time passes; we linger in memories like shadows."
+    },
+    {
+        "id": "ian-mcewan",
+        "name": "Ian McEwan",
+        "bio": "British novelist whose works, such as \"Atonement,\" explore moral dilemmas and the complexities of modern life.",
+        "genre": "Novel",
+        "themes": "Morality, Human Relationships, Technology, Psychology",
+        "sample": "The consequences of our actions are woven into the fabric of our lives."
+    },
+    {
+        "id": "zadie-smith",
+        "name": "Zadie Smith",
+        "bio": "British novelist and essayist acclaimed for her vibrant explorations of multiculturalism and urban life in works like \"White Teeth.\"",
+        "genre": "Novel, Essay",
+        "themes": "Multiculturalism, Identity, Urban Life, Social Commentary",
+        "sample": "We all wear our own masks in the theater of the city."
+    },
+    {
+        "id": "john-updike",
+        "name": "John Updike",
+        "bio": "American novelist and poet renowned for his keen portrayals of suburban American life, especially in his \"Rabbit\" series.",
+        "genre": "Novel, Poetry",
+        "themes": "Suburban Life, Identity, Humor, Society",
+        "sample": "The suburbs hold secrets beneath their manicured lawns."
+    },
+    {
+        "id": "wh-auden",
+        "name": "W.H. Auden",
+        "bio": "Anglo-American poet whose work spans love, politics, and modern society with technical mastery and intellectual depth.",
+        "genre": "Poetry",
+        "themes": "Modern Society, Love, Politics, Mortality",
+        "sample": "We must love one another or die."
+    },
+    {
+        "id": "robert-lowell",
+        "name": "Robert Lowell",
+        "bio": "American poet known for his confessional style and deeply personal verse reflecting on history and personal struggle.",
+        "genre": "Confessional Poetry",
+        "themes": "Personal Struggle, History, Emotion, Loss",
+        "sample": "The mind is a dark, mysterious cavern."
+    },
+    {
+        "id": "allen-ginsberg",
+        "name": "Allen Ginsberg",
+        "bio": "American poet and central figure of the Beat Generation, best known for his groundbreaking poem \"Howl.\"",
+        "genre": "Beat Poetry",
+        "themes": "Counterculture, Rebellion, Social Critique, Freedom",
+        "sample": "I saw the best minds of my generation destroyed by madness..."
+    },
+    {
+        "id": "sylvia-plath",
+        "name": "Sylvia Plath",
+        "bio": "American poet and novelist whose confessional style delves into themes of depression and the struggles of modern womanhood.",
+        "genre": "Confessional Poetry",
+        "themes": "Depression, Identity, Feminism, Mortality",
+        "sample": "I shut my eyes and all the world drops dead."
+    },
+    {
+        "id": "anne-sexton",
+        "name": "Anne Sexton",
+        "bio": "American poet renowned for her candid, confessional verse that explores personal and mental health challenges.",
+        "genre": "Confessional Poetry",
+        "themes": "Mental Health, Family, Identity, Transformation",
+        "sample": "Every line of pain writes its own redemption."
+    },
+    {
+        "id": "paul-celan",
+        "name": "Paul Celan",
+        "bio": "Romanian-born German-language poet whose haunting verse reflects on the Holocaust and the fragility of language.",
+        "genre": "Modernist Poetry",
+        "themes": "Holocaust, Memory, Loss, Language",
+        "sample": "Death is a black mirror that reflects the sorrow of all who live."
+    },
+    {
+        "id": "wallace-stevens",
+        "name": "Wallace Stevens",
+        "bio": "American modernist poet known for his imaginative reflections on reality and the interplay between thought and nature.",
+        "genre": "Modernist Poetry",
+        "themes": "Reality, Imagination, Nature, Philosophy",
+        "sample": "The imagination is the engine of our lives."
+    },
+    {
+        "id": "langston-hughes",
+        "name": "Langston Hughes",
+        "bio": "American poet and social activist whose work encapsulated the spirit of the Harlem Renaissance.",
+        "genre": "Jazz Poetry, Harlem Renaissance",
+        "themes": "Race, Identity, Struggle, Hope",
+        "sample": "Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly."
+    },
+    {
+        "id": "maya-angelou",
+        "name": "Maya Angelou",
+        "bio": "American poet and memoirist celebrated for her powerful autobiographical works and inspirational poetry on the human spirit.",
+        "genre": "Autobiographical Poetry, Memoir",
+        "themes": "Resilience, Identity, Freedom, Empowerment",
+        "sample": "You may not control all the events that happen to you, but you can decide not to be reduced by them."
+    },
+    {
+        "id": "gwendolyn-brooks",
+        "name": "Gwendolyn Brooks",
+        "bio": "American poet known for her insightful portrayals of urban African-American life and her commitment to social justice.",
+        "genre": "Social Realism, Poetry",
+        "themes": "Community, Struggle, Empowerment, Urban Life",
+        "sample": "We are each other's harvest; we are each other's business; we are each other's magnitude and bond."
+    },
+    {
+        "id": "test-1",
+        "name": "Test 1",
+        "bio": "Placed here to test the functionality of the website",
+        "genre": "N\/A",
+        "themes": "N\/A",
+        "sample": "Placed here to test the functionality of the website"
+    },
+    {
+        "id": "test-2",
+        "name": "Test 2",
+        "bio": "Placed here to test the functionality of the website",
+        "genre": "N\/A",
+        "themes": "N\/A",
+        "sample": "Placed here to test the functionality of the website"
+    },
+    {
+        "id": "test-3",
+        "name": "Test 3",
+        "bio": "Placed here to test the functionality of the website",
+        "genre": "N\/A",
+        "themes": "N\/A",
+        "sample": "Placed here to test the functionality of the website"
+    },
+    {
+        "id": "test-4",
+        "name": "Test 4",
+        "bio": "Placed here to test the functionality of the website",
+        "genre": "N\/A",
+        "themes": "N\/A",
+        "sample": "Placed here to test the functionality of the website"
+    },
+    {
+        "id": "test-5",
+        "name": "Test 5",
+        "bio": "Placed here to test the functionality of the website",
+        "genre": "N\/A",
+        "themes": "N\/A",
+        "sample": "Placed here to test the functionality of the website"
+    },
+    {
+        "id": "test-6",
+        "name": "Test 6",
+        "bio": "Placed here to test the functionality of the website",
+        "genre": "N\/A",
+        "themes": "N\/A",
+        "sample": "Placed here to test the functionality of the website"
+    },
+    {
+        "id": "test-7",
+        "name": "Test 7",
+        "bio": "Placed here to test the functionality of the website",
+        "genre": "N\/A",
+        "themes": "N\/A",
+        "sample": "Placed here to test the functionality of the website"
+    },
+    {
+        "id": "test-8",
+        "name": "Test 8",
+        "bio": "Placed here to test the functionality of the website",
+        "genre": "N\/A",
+        "themes": "N\/A",
+        "sample": "Placed here to test the functionality of the website"
+    },
+    {
+        "id": "test-9",
+        "name": "Test 9",
+        "bio": "Placed here to test the functionality of the website",
+        "genre": "N\/A",
+        "themes": "N\/A",
+        "sample": "Placed here to test the functionality of the website"
+    },
+    {
+        "id": "test-10",
+        "name": "Test 10",
+        "bio": "Placed here to test the functionality of the website",
+        "genre": "N\/A",
+        "themes": "N\/A",
+        "sample": "Placed here to test the functionality of the website"
+    }
+]
